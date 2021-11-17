@@ -1,3 +1,7 @@
+# Fylipe Amorim
+# fylipe@pentestbrasil.dev
+# 17/11/2021
+
 import re
 import requests
 import os
