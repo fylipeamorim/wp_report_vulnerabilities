@@ -17,6 +17,7 @@ https://flask.palletsprojects.com/en/2.0.x/
 # Deploy Flask
 https://flask.palletsprojects.com/en/2.0.x/tutorial/deploy/
 
+# API WPSCAN
 **https://wpscan.com/api**
 
 
