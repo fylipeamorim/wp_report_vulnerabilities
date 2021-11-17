@@ -106,7 +106,7 @@ def get_testing():
 
 
 if __name__ == "__main__":
-    request_api = request_url_wp('https://blog.consistem.com.br/feed')
+    request_api = request_url_wp('https://examplewp.com/feed')
     if request_api == 400:
         print('Invalid Url')
         exit()
