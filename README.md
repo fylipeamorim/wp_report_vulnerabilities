@@ -2,6 +2,7 @@
 A Crawler that makes a request to a wordpress url by going to /feed (https://examplewp.com/feed) takes the wordpress version and consumes the wpscan api that returns the vulnerabilities found in the version the wp_report_vulnerabilities crawler found
 
 # Usage
+pip install -r requirements.txt
 python3 crawler_wp.py
 
 # Flask
